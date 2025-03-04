@@ -7,7 +7,9 @@ I wanted to develop a prototype of analitical app about ebooks, so I created it 
 *  Two cards that updates when you select a book, which calculates prices in USD and Argentinian Pesos, also calculates the money change up to date.
 *  A text box which describes the book
 *  A button that let the user buy the book connecting the app to an external website.
+*  A card that shows the amount of books on sell.
 
 Finally, here is an image of the app itself:
 
-![image](https://github.com/user-attachments/assets/35c83643-162e-4f39-9999-7abfcefd537b)
+![image](https://github.com/user-attachments/assets/48635cbb-c054-4a0b-852b-38af7eab6401)
+

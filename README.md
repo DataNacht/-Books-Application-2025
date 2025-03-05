@@ -17,7 +17,8 @@ Cards with DAX measures that calculates prices in USD and Pesos:![image](https:/
 
 Filters: ![image](https://github.com/user-attachments/assets/67056760-9b26-4edc-a422-70cac7af3f9e)
 
-Action button that connects to an external link URL: ![image](https://github.com/user-attachments/assets/66fa9239-d21a-4969-8ebd-83cc23a1cc2b),![image](https://github.com/user-attachments/assets/e703777e-5d86-4f34-a61e-861aa4cc6d67)
+Action button that connects to an external link URL: 
+![image](https://github.com/user-attachments/assets/66fa9239-d21a-4969-8ebd-83cc23a1cc2b),![image](https://github.com/user-attachments/assets/e703777e-5d86-4f34-a61e-861aa4cc6d67)
 
 
 

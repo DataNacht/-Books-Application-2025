@@ -9,7 +9,19 @@ I wanted to develop a prototype of analitical app about ebooks, so I created it 
 *  A button that let the user buy the book connecting the app to an external website.
 *  A card that shows the amount of books on sell.
 
-Finally, here is an image of the app itself:
+Finally, here are a few images of the app itself:
 
-![image](https://github.com/user-attachments/assets/48635cbb-c054-4a0b-852b-38af7eab6401)
+Overall image: ![image](https://github.com/user-attachments/assets/48635cbb-c054-4a0b-852b-38af7eab6401)
+
+Cards with DAX measures that calculates prices in USD and Pesos:![image](https://github.com/user-attachments/assets/d1dae437-7f0c-4ac1-a413-78282efea617)
+
+Filters: ![image](https://github.com/user-attachments/assets/67056760-9b26-4edc-a422-70cac7af3f9e)
+
+Action button that connects to an external link URL: ![image](https://github.com/user-attachments/assets/66fa9239-d21a-4969-8ebd-83cc23a1cc2b)
+![image](https://github.com/user-attachments/assets/e703777e-5d86-4f34-a61e-861aa4cc6d67)
+
+
+
+
+
 
